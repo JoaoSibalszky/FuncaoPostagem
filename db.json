@@ -1,0 +1,36 @@
+{
+  "postagens": [
+    {
+      "titulo": "Primeiro Relato",
+      "conteudo": "Primeiro Relato",
+      "usuarioId": 1,
+      "comunidadeId": 1,
+      "anonimo": true,
+      "status": "aprovado",
+      "dataCriacao": "2026-05-17",
+      "id": 1
+    },
+    {
+      "titulo": "Segundo Relato",
+      "conteudo": "Segundo Relato",
+      "usuarioId": 1,
+      "comunidadeId": 1,
+      "anonimo": true,
+      "status": "aprovado",
+      "dataCriacao": "2026-05-17",
+      "id": 2
+    },
+    {
+      "titulo": "Meu relato foi assim assim asssado, e aconteceu...",
+      "conteudo": "Meu relato foi assim assim asssado, e aconteceu isso isso e isso",
+      "usuarioId": 1,
+      "comunidadeId": 1,
+      "anonimo": true,
+      "status": "aprovado",
+      "dataCriacao": "2026-05-17",
+      "id": 3
+    }
+  ],
+  "avaliacoes": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
